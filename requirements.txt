@@ -1,0 +1,5 @@
+1.OpenAI
+2.Langchain
+3.Streamlit
+4.Python_dotenv
+5.PyPDF2
